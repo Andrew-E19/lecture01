@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+/* This is the style for the box-1 */
+
+.box-1{
+    text-align: center;
+    background-color: lightblue;
+    border: 5px solid salmon;
+    font-size: 50px;
+    margin: 20px 50px;
+    padding: 20px 50px;
+}
